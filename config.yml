@@ -1,0 +1,26 @@
+#################################
+#################################
+## COREUTILITIES CONFIGURATION ##
+#################################
+#################################
+
+Messages:
+  creative: "&3&lᴄᴏʀᴇ > &7You have changed your gamemode to &3creative&7."
+  survival: "&3&lᴄᴏʀᴇ > &7You have changed your gamemode to &3survival&7."
+  adventrue: "&3&lᴄᴏʀᴇ > &7You have changed your gamemode to &3adventure&7."
+  spectator: "&3&lᴄᴏʀᴇ > &7You have changed your gamemode to &3spectator&7."
+  feed: "&3&lᴄᴏʀᴇ > &7You are no longer &3hungry&7."
+  heal: "&3&lᴄᴏʀᴇ > &7You have been &3healed&7."
+  vanish: "&3&lᴄᴏʀᴇ > &7You have &3vanished&7."
+  unvanish: "&3&lᴄᴏʀᴇ > &7You are no longer &3invisible&7."
+  day: "&3&lᴄᴏʀᴇ > &7Time has set to &3day&7."
+  night: "&3&lᴄᴏʀᴇ > &7Time has set to &3night&7."
+  noon: "&3&lᴄᴏʀᴇ > &7Time has set to &3noon&7."
+  midnight: "&3&lᴄᴏʀᴇ > &7Time has set to &3midnight&7."
+  workbench: "&3&lᴄᴏʀᴇ > &7You have opened &3workbench&7."
+  fly: "&3&lᴄᴏʀᴇ > &7You have enabled &3flying&7."
+  
+# PLAYER EVENTS
+EVENTS:
+ Join: "&2&l[&a+&2&l] &a"
+ Quit: "&4&l[&c-&4&l] &c"
